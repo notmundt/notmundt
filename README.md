@@ -2,7 +2,7 @@
 - ⚡ I'm **Leandro Menezes** | Front-End Developer
 - 📚 I'm currently learning about **JavaScript** and **Web Accessibility**
 - 🔗 You can check all my networks at this [link](https://linktr.ee/mundt)
-- 💡 Fun fact, I have a lot of experience in changing light bulbs (**1.94m** or **6'4** tall)
+- 💡 Fun fact, I have a lot of experience changing light bulbs (**1.94m** or **6'4** tall)
 
 
 ## 📊 Stats
